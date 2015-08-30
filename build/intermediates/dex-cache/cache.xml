@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/adrian.antoci/Documents/github/blescanner/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="/Users/adrian.antoci/Documents/github/blescanner/app/build/intermediates/pre-dexed/debug/classes-4051a771949ec1a425b252bf46414dcb4508331d.jar" />
+    </item>
+    <item
+        jar="/Users/adrian.antoci/Documents/github/blescanner/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/Users/adrian.antoci/Documents/github/blescanner/app/build/intermediates/pre-dexed/debug/classes-02384f9fb214f08efd08236ec521a666ce6378c0.jar" />
+    </item>
+    <item
+        jar="/Users/adrian.antoci/Documents/github/blescanner/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/adrian.antoci/Documents/github/blescanner/app/build/intermediates/pre-dexed/debug/classes-c0bc05be483ab5e8fc11b6ac8289656c1d0e5265.jar" />
+    </item>
+    <item
+        jar="/Users/adrian.antoci/Documents/github/blescanner/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/adrian.antoci/Documents/github/blescanner/app/build/intermediates/pre-dexed/debug/classes-d1ac2a375a252b70ef5750a0d0b608f1bde0aaa9.jar" />
+    </item>
+    <item
+        jar="/Users/adrian.antoci/Documents/github/blescanner/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/adrian.antoci/Documents/github/blescanner/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-b8b69d13e20355951f85c66ac5440b66fd9dfebd.jar" />
+    </item>
+    <item
+        jar="/Users/adrian.antoci/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/adrian.antoci/Documents/github/blescanner/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-75e232af993b78448913a49ebba7aa861f8a3689.jar" />
+    </item>
+
+</items>
